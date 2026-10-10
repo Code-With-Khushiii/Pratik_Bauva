@@ -177,7 +177,6 @@ function App() {
   const certifications = [
     { title: "Cisco Certified Network Associate (CCNA)", issuer: "Cisco", status: "Certified" },
     { title: "Oracle Cloud Infrastructure Foundations Certified Associate", issuer: "Oracle", status: "Certified" },
-    { title: "SAP WSOM", issuer: "SAP", status: "Certified" },
     { title: "Extron AV Associate", issuer: "Extron", status: "Certified" },
     { title: "AWS Solutions Architect", issuer: "Amazon Web Services", status: "In Progress" }
   ];
